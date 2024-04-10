@@ -1,1 +1,1 @@
-# NLP-LSTM-Project-24
+# NLP-Detection of Negation and Uncertainty-Project-24
