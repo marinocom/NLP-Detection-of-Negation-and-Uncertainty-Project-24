@@ -1,9 +1,9 @@
 # Negation and Uncertainty Detection Project - Group 1
 
 ## Members
-- Marino Oliveros Blanco NIU:1668563
-- Pere Mayol Carbonell NIU:1669503
-- Andreu Gascón Marzo: 
+- Marino Oliveros Blanco  NIU: 1668563
+- Pere Mayol Carbonell  NIU: 1669503
+- Andreu Gascón Marzo  NIU: 
   
 ## Introduction
 
