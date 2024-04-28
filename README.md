@@ -3,7 +3,8 @@
 ## Members
 - Marino Oliveros Blanco  NIU: 1668563
 - Pere Mayol Carbonell  NIU: 1669503
-- Andreu Gascón Marzo  NIU: 
+- Andreu Gascón Marzo  NIU:
+- Judith Zaragoza López NIU: 1634071
   
 ## Introduction
 
