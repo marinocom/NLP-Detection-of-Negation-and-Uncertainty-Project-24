@@ -38,12 +38,12 @@ The scientific method will be applied throughout the project:
 3. Results Analysis: Analyze experiment results, reevaluate hypotheses, and iterate as necessary.
 
 ## Rule-based algorithm
-- Need to elaborate
+- UMLS tagging
 
 
 ## ML approach
-- Need to elaborate
+- CRF
 
 
 ## DL approach
-- Need to elaborate
+- BiLSTM with Class Weights
